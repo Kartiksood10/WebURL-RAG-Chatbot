@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain_community
+langchain-community
+faiss-cpu
+chromadb
+tiktoken
+BeautifulSoup4
+sentence-transformers
